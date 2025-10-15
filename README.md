@@ -1,2 +1,2 @@
-# learning-process
-dictionary based student mark details
+# internship week 1
+fundamentals of python
